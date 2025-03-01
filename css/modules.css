@@ -1,0 +1,13 @@
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+.text-md {
+  font-size: 14px;
+}
+.text-sm {
+  font-size: 12px;
+}
+.text-lg {
+  font-size: 2rem;
+}

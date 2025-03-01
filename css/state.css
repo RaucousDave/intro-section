@@ -1,0 +1,28 @@
+.show {
+  display: block;
+}
+.rotate {
+  transform: rotate(360deg);
+}
+.flex-end :nth-child(2):hover {
+  border-color: var(--font-color);
+}
+.dropdown-content a:hover,
+.drop-btn:hover,
+.navlink:hover,
+.btn:hover {
+  color: var(--font-color);
+}
+.mobile-nav.active {
+  transform: translateX(0%);
+  display: flex;
+}
+.nav-container.show{
+  visibility: visible;
+  opacity: 1;
+  right: 10px;
+  transform: translateX(-10%);
+}
+.icon-menu.hidden{
+  display: none;
+}
