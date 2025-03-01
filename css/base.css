@@ -12,6 +12,7 @@ li {
 }
 body {
   height: 100vh;
+  background-color: var(--bg-color);
 }
 img {
   width: 100%;

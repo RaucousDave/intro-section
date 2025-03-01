@@ -163,12 +163,11 @@ a.get-started{
     position: fixed;
     top: 0;
     width: 90%;
-    height: 60px;
+    height: 20px;
     display: flex;
     justify-content: space-between;
     z-index: 1000;
     padding: 10px 20px;
-    padding-bottom: 2rem;
     background-color: var(--bg-color);
   }
 
@@ -177,7 +176,7 @@ a.get-started{
 }
 .main{
   flex-direction: column-reverse;
-  padding-top: 5rem;
+  padding-top: 2rem;
   margin-top: 100px;
   height: 100vh;
 }
